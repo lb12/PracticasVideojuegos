@@ -33,7 +33,7 @@ public class Arco extends Arma {
 
     @Override
     public String toString() {
-        return "Arco\n\t{" + super.toString() + "\n\t\tCapacidad carcaj: " + numFlechas + " flechas\n\t}";
+        return "Arco\n\t{" + super.toString() + "\n\t\tContenido en el carcaj: " + numFlechas + " flechas\n\t}";
     }
 
 }
