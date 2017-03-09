@@ -1,4 +1,4 @@
-package TestPackageP3;
+package Practica3.TestPackageP3;
 
 import Practica3.armas.*;
 import Practica3.personajes.*;
